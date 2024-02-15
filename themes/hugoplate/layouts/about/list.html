@@ -6,6 +6,9 @@
           {{ partial "image" (dict "Src" .Params.image "Alt" .Title "Class" "mx-auto mb-6" "Size" "200x200") }}
           <h2 class="h3 mb-6">{{ .Title }}</h2>
           <div class="content">{{ .Content }}</div>
+          {{ if not .IsHome }}
+          <p>foo</p>
+          {{ end }}
         </div>
       </div>
     </div>
