@@ -35,14 +35,14 @@ features:
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/hugoplate"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+  - title: "How It Works"
     image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
-    Steps:
+    content: "Explore our curated internships, apply for opportunities that match your goals, engage in hands-on experiences, and watch your career soar with Nebula Intern."
+    bulletpoints:
       1. Explore: Browse through our diverse range of internship opportunities.
       2. Apply: Choose an internship that aligns with your career goals and apply easily through our platform.
-      3. Engage: Gain hands-on experience, develop skills, and make valuable industry connections.
-      4. Grow: Receive feedback, certifications, and endorsements to boost your professional profile.
+      3. Complete the Project: Work on the project, submit your work, and receive valuable feedback.
+      4. Get Certified: Earn certificates and recommendations that add value to your resume.
     button:
       enable: false
       label: ""
