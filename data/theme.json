@@ -17,10 +17,10 @@
     "darkmode": {
       "theme_color": {
         "primary": "#FFE0B2",
-        "body": "#3E2723",
-        "border": "#8D6E63",
+        "body": "#1A1A1A",
+        "border": "#444444",
         "theme_light": "#D4A373",
-        "theme_dark": "#FFF3E0"
+        "theme_dark": "#3E2723"
       },
       "text_color": {
         "default": "#8D6E63",
