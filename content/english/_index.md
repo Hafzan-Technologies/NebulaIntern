@@ -38,7 +38,7 @@ features:
   - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
     image: "/images/service-3.png"
     content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
-    - Steps
+    Steps:
       1. Explore: Browse through our diverse range of internship opportunities.
       2. Apply: Choose an internship that aligns with your career goals and apply easily through our platform.
       3. Engage: Gain hands-on experience, develop skills, and make valuable industry connections.
