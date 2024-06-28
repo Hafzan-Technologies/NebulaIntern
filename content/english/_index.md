@@ -1,38 +1,35 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Navigating Your Career Through Hands-On Experience"
+  content: "Embark on a transformative journey navigating your career through hands-on experience with Nebula Intern. Discover opportunities that propel your professional growth and shape your future success."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
+    label: "Get Started"
     link: "https://github.com/zeon-studio/hugoplate"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "About Nebula Intern"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
-    bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+    content: "At Nebula Intern, we believe in the power of hands-on experience to transform careers. We connect ambitious students and young professionals with meaningful internship opportunities across various industries. Our platform is designed to help you gain practical skills, build valuable connections, and accelerate your career growth."
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Featured Internships"
     image: "/images/service-2.png"
     content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - Banking & Financial Services
+      - Software Engineering
+      - Law
+      - Consulting
+      - Accounting
+      - Data Security
+      - Marketing
     button:
       enable: true
       label: "Get Started Now"
@@ -41,11 +38,11 @@ features:
   - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
     image: "/images/service-3.png"
     content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
-    bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+    - Steps
+      1. Explore: Browse through our diverse range of internship opportunities.
+      2. Apply: Choose an internship that aligns with your career goals and apply easily through our platform.
+      3. Engage: Gain hands-on experience, develop skills, and make valuable industry connections.
+      4. Grow: Receive feedback, certifications, and endorsements to boost your professional profile.
     button:
       enable: false
       label: ""
