@@ -2,43 +2,43 @@
   "colors": {
     "default": {
       "theme_color": {
-        "primary": "#121212",
-        "body": "#fff",
-        "border": "#eaeaea",
+        "primary": "#4a4a4a",   // Adjusted primary color to a darker shade
+        "body": "#fff",         // Keep body background light
+        "border": "#eaeaea",    // Soften borders
         "theme_light": "#f6f6f6",
-        "theme_dark": ""
+        "theme_dark": "#000"    // Dark theme background
       },
       "text_color": {
-        "default": "#444444",
-        "dark": "#040404",
-        "light": "#717171"
+        "default": "#333",      // Darker default text color
+        "dark": "#000",         // Black for darker backgrounds
+        "light": "#666"         // Lighter gray for secondary text
       }
     },
     "darkmode": {
       "theme_color": {
-        "primary": "#fff",
-        "body": "#1c1c1c",
-        "border": "#3E3E3E",
+        "primary": "#fff",      // White primary for dark mode
+        "body": "#1c1c1c",      // Dark body background
+        "border": "#3E3E3E",    // Darker border color
         "theme_light": "#222222",
-        "theme_dark": ""
+        "theme_dark": "#000"    // Dark theme background
       },
       "text_color": {
-        "default": "#B4AFB6",
-        "dark": "#fff",
-        "light": "#B4AFB6"
+        "default": "#B4AFB6",   // Light gray text for dark mode
+        "dark": "#fff",         // White text for dark mode
+        "light": "#B4AFB6"      // Light gray secondary text
       }
     }
   },
   "fonts": {
     "font_family": {
-      "primary": "Heebo:wght@400;600",
+      "primary": "Montserrat:wght@500;700",  // Luxurious and bold primary font
       "primary_type": "sans-serif",
-      "secondary": "Signika:wght@500;700",
-      "secondary_type": "sans-serif"
+      "secondary": "Playfair Display:wght@700",  // Elegant serif secondary font
+      "secondary_type": "serif"
     },
     "font_size": {
-      "base": "16",
-      "scale": "1.250"
+      "base": "16",            // Base font size
+      "scale": "1.250"         // Font size scaling
     }
   }
 }
