@@ -13,7 +13,7 @@ weight = 2
 
 [[main]]
 name = "Get Started"
-url = "internships/"
+url = "/"
 weight = 3
 
 [[main]]
